@@ -17,7 +17,8 @@ const Contact = () => {
         </p>
         {/* form */}
         <form
-          action=""
+          // action="https://getform.io/f/be6d6939-62dc-4a0a-947c-b6ecad71bdb0"
+          method="POST"
           className="px-8 lg:px-0 max-w-[600px] mx-auto flex flex-col space-y-6 mb-[64px]"
         >
           <input type="text" placeholder="Your Name" className="form-control" />
@@ -35,7 +36,7 @@ const Contact = () => {
         <div className="flex items-center justify-between max-w-[205px] mx-auto">
             {social.map((item, index)=> {
                 return (
-                    <a href={item.socialLink} key={index} target="_blank">
+                    <a href={item.socialLink} key={index} target="_blank" rel="noreferrer">
                         <img src={item.icon} alt="social" />
                     </a>
                 )

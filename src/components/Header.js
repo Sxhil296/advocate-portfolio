@@ -24,7 +24,7 @@ const Header = () => {
     >
       <div className="container mx-auto flex items-center justify-between">
         {/* logo */}
-        <a href="#">
+        <a href="#home">
           <img src={Logo} alt="logo" />
         </a>
         {/* nav */}
