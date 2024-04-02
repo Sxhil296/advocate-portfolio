@@ -9,7 +9,7 @@ const About = () => {
       <h2 className="text-5xl font-primary font-extrabold mb-4 lg:pb-10">About Me</h2>
       <div className='grid md:grid-cols-2 max-w-[1240px] m-auto'>
         <div className='flex flex-col justify-center md:items-start w-full px-2 pt-6'>
-          <img src={LawyerImage} alt="lawyer"  className='w-full' />
+          <img src={LawyerImage} alt="Advocate Amjad Malik"  className='w-full' />
         </div>
         <div>
         <p className="max-w-[540px] mx-auto px-6 pt-6 sm:text-[18px] lg:px-0 mb-[60px] text-justify lg:ml-20">

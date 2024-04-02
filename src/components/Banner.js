@@ -26,7 +26,7 @@ const Banner = () => {
         </div>
         {/* right */}
         <div className="hidden flex-1 lg:flex lg:flex-col items-end">
-          <img src={LawyerImage} alt="lawyer" />
+          <img src={LawyerImage} alt="Advocate Amjad Malik" />
         </div>
       </div>
     </section>
