@@ -51,22 +51,22 @@ export const navigation = [
 // testimonials data
 export const testimonials = [
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Jane Cooper',
+    text: "Mr. Malik's legal expertise and strategic approach were instrumental in resolving my property dispute. I highly recommend his services to anyone in need of a reliable and knowledgeable lawyer.",
+    name: 'Javed Malik',
     image: ProfilePhoto1,
-    position: 'Web Developer',
+    position: 'Property Dealer',
   },
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Theresa Webb',
+    text: "I am grateful to Mr. Amjad for his dedicated representation in my criminal defense case. His courtroom skills and deep understanding of Indian criminal law secured a favorable outcome for me.",
+    name: 'Sonu Singh',
     image: ProfilePhoto2,
-    position: 'Web Designer',
+    position: '',
   },
   {
-    text: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem rem ad consequuntur similique sequi illum dolorum omnis inventore labore odio!',
-    name: 'Kathryn Murphy',
+    text: "Adv Amjad Bhai ki professionalism aur integrity ne meri divorce proceedings mein chamak dikhayi. Unki empathetic approach aur legal samajh ne ek challenging process ko aasan banaya.",
+    name: 'Javed Malik',
     image: ProfilePhoto3,
-    position: 'UI/UX Designer',
+    position: '',
   },
 ];
 
@@ -139,11 +139,15 @@ export const skills = [
 export const social = [
   {
     icon: FacebookIcon,
+    socialLink: "https://www.facebook.com"
   },
   {
     icon: TwitterIcon,
+    socialLink: "https://www.twitter.com"
+
   },
   {
     icon: InstagramIcon,
+    socialLink: "https://www.instagram.com"
   },
 ];

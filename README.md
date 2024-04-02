@@ -1,1 +1,1 @@
-# Responsive Lawfirm Website with ReactJS & Tailwind CSS.
+# Responsive Lawyer Portfolio Website with ReactJS & Tailwind CSS.
