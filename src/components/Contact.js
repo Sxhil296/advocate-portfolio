@@ -10,13 +10,10 @@ const Contact = () => {
     >
       <div className="container mx-auto text-center">
         <h2 className="text-5xl font-primary font-extrabold mb-4">
-          Contact Us
+          Contact
         </h2>
         <p className="max-w-[540px] mx-auto px-6 lg:px-0 mb-[64px]">
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque alias
-          vel numquam, inventore explicabo labore! Maiores, maxime, atque quia
-          inventore dolorum accusamus illum consequuntur omnis velit quas modi
-          non nam.
+        Thank you for considering me for your legal matters. I'm available for consultations and eager to assist you with your legal needs. Whether you have questions about a specific case or need general legal advice, feel free to contact me. I look forward to the opportunity to work together and provide the support and guidance you deserve.
         </p>
         {/* form */}
         <form

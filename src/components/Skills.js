@@ -9,10 +9,7 @@ const Skills = () => {
       <div className="container mx-auto text-center">
         <h2 className="text-5xl font-primary font-extrabold mb-4">What I do</h2>
         <p className="max-w-[540px] mx-auto px-6 lg:px-0 mb-[60px]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat
-          consequatur autem ipsum voluptatem dolorem vitae perferendis, unde
-          laudantium pariatur nemo voluptatibus molestiae quasi adipisci fugiat
-          deleniti alias ipsa quae iste.
+        I specialize in legal advocacy, providing expert counsel and representation in various areas of law. With a focus on achieving favorable outcomes for my clients, I handle cases with precision and dedication.
         </p>
         {/* skills grid */}
         <div className="lg:grid lg:grid-cols-3 gap-12">

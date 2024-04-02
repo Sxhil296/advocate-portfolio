@@ -4,7 +4,7 @@ import Testimonials from "./components/Testimonials";
 import Skills from "./components/Skills";
 import Team from './components/Team'
 import WhatsAppChatIcon from "./components/WhatsAppChatIcon";
-// import About from "./components/About";
+import About from "./components/About";
 import Newsletter from "./components/Newsletter";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -17,9 +17,9 @@ const App = () => {
     <div>
       <Banner />
       <Testimonials />
-      {/* <About /> */}
+      <About />
       <Skills />
-      <Team />
+      {/* <Team /> */}
       <Newsletter />
       <Contact/>
       <Footer />
