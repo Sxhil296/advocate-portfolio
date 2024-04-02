@@ -30,6 +30,10 @@ export const navigation = [
     href: 'home',
   },
   {
+    name: 'About',
+    href: 'about',
+  },
+  {
     name: 'What we do',
     href: 'skills',
   },
