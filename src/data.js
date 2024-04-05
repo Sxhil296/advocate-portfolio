@@ -13,16 +13,14 @@ import Skill6 from '../src/assets/img/skills/skill6.png';
 
 // import team images
 // import TeamMember1 from '../src/assets/img/lawyer1.png';
-// import TeamMember2 from '../src/assets/img/lawyer2.png';
-// import TeamMember3 from '../src/assets/img/lawyer3.png';
+
 
 // import social icons
 import FacebookIcon from '../src/assets/img/social/facebook.png';
 import TwitterIcon from '../src/assets/img/social/twitter.png';
 import InstagramIcon from '../src/assets/img/social/instagram.png';
 // import mailIcon from '../src/assets/img/social/mail.png'
-// import YoutubeIcon from '../src/assets/img/social/youtube.png';
-// import PinterestIcon from '../src/assets/img/social/pinterest.png';
+
 
 // navigation data
 export const navigation = [
@@ -38,10 +36,6 @@ export const navigation = [
     name: 'What I do',
     href: 'skills',
   },
-  // {
-  //   name: 'Our team',
-  //   href: 'team',
-  // },
   {
     name: 'Contact',
     href: 'contact',
@@ -116,20 +110,6 @@ export const skills = [
 //     image: TeamMember1,
 //     name: 'Jane William',
 //     position: 'Band & Financial Lawyer',
-//     description:
-//       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
-//   },
-//   {
-//     image: TeamMember2,
-//     name: 'Andrea Collins',
-//     position: 'Family Lawyer',
-//     description:
-//       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
-//   },
-//   {
-//     image: TeamMember3,
-//     name: 'John Smith',
-//     position: 'Business Lawyer',
 //     description:
 //       'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed erat nibh tristique ipsum.',
 //   },
