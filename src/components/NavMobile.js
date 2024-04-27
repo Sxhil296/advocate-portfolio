@@ -38,6 +38,7 @@ const NavMobile = () => {
                 spy={true}
                 offset={-200}
                 className="hover:text-accent-hover transition-all duration-300 cursor-pointer"
+            
               >
                 {item.name}
               </Link>
